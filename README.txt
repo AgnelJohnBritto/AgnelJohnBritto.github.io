@@ -1,0 +1,1 @@
+Copy your logo and screenshots into images folder.
